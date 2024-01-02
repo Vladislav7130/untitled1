@@ -10,6 +10,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
 }]]></component>
@@ -22,10 +25,17 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.untitled1 [package].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -37,8 +47,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1704219965807</updated>
-      <workItem from="1704219966956" duration="9000" />
+      <workItem from="1704219966956" duration="3795000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
